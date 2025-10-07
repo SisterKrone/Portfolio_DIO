@@ -10,31 +10,31 @@
         "hardSkills": [
             {
                 "name": "Nodejs",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/node.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/node.svg"
             },
             {
                 "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/js.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/js.svg"
             },
             {
                 "name": "Git",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/git.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/git.svg"
             },
             {
                 "name": "React",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/react.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/react.svg"
             },
             {
                 "name": "Html",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/html.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/html.svg"
             },
             {
                 "name": "Postgresql",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/postgresql.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/postgresql.svg"
             },
             {
                 "name": "css",
-                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/mainassets/img/icons/css.svg"
+                "logo": "https://raw.githubusercontent.com/SisterKrone/Portfolio_DIO/refs/heads/main/assets/img/icons/css.svg"
             }
         ],
         "softSkills": [
