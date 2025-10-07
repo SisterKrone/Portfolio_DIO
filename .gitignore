@@ -1,0 +1,89 @@
+# ===========================
+# Node.js Essentials
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ===========================
+# Environment & Config
+# ===========================
+.env
+.env.local
+.env.*.local
+
+# Arquivos de configuração sensíveis 
+config.json
+*.secret.json
+
+# ===========================
+# Build / Output
+# ===========================
+dist/
+build/
+out/
+.cache/
+.tmp/
+
+# ===========================
+# OS-specific files
+# ===========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ===========================
+# Logs
+# ===========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ===========================
+# Coverage & Testing
+# ===========================
+coverage/
+.nyc_output/
+
+# ===========================
+# Temp files
+# ===========================
+*.tmp
+*.temp
+*.bak
+
+# ===========================
+# http-server
+# ===========================
+.cache-http-server/
+introducao_http.md
+modulo3.md
+foto_meu_BELO_rosto.jpeg
