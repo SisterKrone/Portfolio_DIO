@@ -31,10 +31,10 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/portfolio/assets/img/icons/github.svg');
-    margin-right: 0.5rem;    
+    background-image: url('/assets/img/icons/github.svg');
+    margin-right: 0.5rem;
 }
 
 .portfolio li a {
-    margin-left: 1rem;   
+    margin-left: 1rem;
 }

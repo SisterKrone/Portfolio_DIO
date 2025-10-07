@@ -17,7 +17,7 @@
 }
 
 .experience ul li {
-    margin-top: 0.5rem;    
+    margin-top: 0.5rem;
 }
 
 .experience li .period {
@@ -35,7 +35,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/portfolio/assets/img/icons/period.svg');
+    background-image: url('/assets/img/icons/period.svg');
     margin-right: 0.5rem;
 }
 
